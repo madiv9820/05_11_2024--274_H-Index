@@ -1,7 +1,7 @@
 # [274. H-Index](https://leetcode.com/problems/h-index?envType=study-plan-v2&envId=top-interview-150)
 
 __Type:__ Medium <br>
-__Topics:__ Array, Sorting, Counting Sort
+__Topics:__ Array, Sorting, Counting Sort <br>
 __Companies:__ Amazon, Bloomberg, Google, Microsoft, Meta, Adobe, Apple, Uber, Nvidia, Yahoo, ByteDance, Yandex, Zoox <br>
 <hr>
 
